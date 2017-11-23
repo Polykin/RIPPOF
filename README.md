@@ -1,12 +1,12 @@
-Litecoin Core integration/staging tree
+RIPPOFF integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
 
-https://litecoin.org
-
-What is Litecoin?
+What is RIPPOFF?
 ----------------
+
+RIPPOF is the first digital currency to be backed by geothermal energy. 
+
 
 Litecoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
