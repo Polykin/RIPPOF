@@ -6,7 +6,20 @@ What is RIPPOFF?
 ----------------
 
 RIPPOF is the first digital currency to be backed by geothermal energy. 
+Why geothermal energy, you ask? As it stands now, most geothermal
+resources are unreachable in a cost effective manner. However, thanks
+to our consultant Mugabe Musk (Zimbabwean half-brother of Elon Musk),
+RIPPOF is uniquely poised to take advantage of geothermal resources under the
+control of the new Zimbabwean government.  RIPPOF has access to Mugabe's former
+mansion compound in Harare, which is located directly above the core of the
+earth. By drilling down into the earth's core, RIPPOF plans to extract 
 
+
+
+
+research into drilling techniques is refining the process year-on-year.
+Soon the capital required to access geothermal resources will no longer be
+a barrier. 
 
 Litecoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
